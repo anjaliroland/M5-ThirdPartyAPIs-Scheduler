@@ -22,8 +22,8 @@ After clicking the second link below, the user will be brought to a page resembl
 
 ## Links
 
-Repository: [
-    (https://github.com/anjaliroland/M5-ThirdPartyAPIs-Scheduler)]
+Repository: 
+    https://github.com/anjaliroland/M5-ThirdPartyAPIs-Scheduler
 
-Deployed Application: [
-    (https://anjaliroland.github.io/M5-ThirdPartyAPIs-Scheduler/)]
+Deployed Application: 
+    https://anjaliroland.github.io/M5-ThirdPartyAPIs-Scheduler/
