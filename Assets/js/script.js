@@ -35,6 +35,10 @@ $(function () {
       }
     })
 
+// Notes saved in local storage persist when page is refreshed
+
+
+
 // Displays current date
     var timeEl = $("#currentDay");
     timeEl.text(dayjs().format('MMMM DD, YYYY'));
