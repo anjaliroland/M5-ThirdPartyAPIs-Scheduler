@@ -15,12 +15,15 @@ For this challenge we were tasked to add code with jQuery to an existing applica
 
 ## Usage
 
+After clicking the second link below, the user will be brought to a page resembling the following screenshot, where they are able to add and save events to time blocks that will be color coded according to the current time of day (grey for past, red for present, and green for future).
+
+<img src="./Assets/images/screenshot.png">
 
 
 ## Links
 
 Repository: [
-    ( )]
+    (https://github.com/anjaliroland/M5-ThirdPartyAPIs-Scheduler)]
 
 Deployed Application: [
-    ( )]
+    (https://anjaliroland.github.io/M5-ThirdPartyAPIs-Scheduler/)]
