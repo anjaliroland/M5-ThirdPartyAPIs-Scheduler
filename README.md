@@ -30,6 +30,7 @@ THEN the saved events persist
 <!--
 ## Usage
 
+![gif of work day scheduler](./assets/images/work-day-scheduler.gif)
 -->
 
 ## License
