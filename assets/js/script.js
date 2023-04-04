@@ -21,14 +21,25 @@ $(function () {
     // attribute of each time-block be used to conditionally add or remove the
     // past, present, and future classes? How can Day.js be used to get the
     // current hour in 24-hour time?
-    //
+    
+
+
     // TODO: Add code to get any user input that was saved in localStorage and set
     // the values of the corresponding textarea elements. HINT: How can the id
     // attribute of each time-block be used to do this?
-    $("#hour-9 .description").val(localStorage.getItem("9AM"));
-    $("#hour-10 .description").val(localStorage.getItem("10AM"));
-    $("#hour-11 .description").val(localStorage.getItem("11AM"));
+    $("#hour7 .description").val(localStorage.getItem("7AM"));
+    $("#hour8 .description").val(localStorage.getItem("8AM"));
+    $("#hour9 .description").val(localStorage.getItem("9AM"));
+    $("#hour10 .description").val(localStorage.getItem("10AM"));
+    $("#hour11 .description").val(localStorage.getItem("11AM"));
+    $("#hour12 .description").val(localStorage.getItem("12PM"));
+    $("#hour13 .description").val(localStorage.getItem("1PM"));
+    $("#hour14 .description").val(localStorage.getItem("2PM"));
+    $("#hour15 .description").val(localStorage.getItem("3PM"));
+    $("#hour16 .description").val(localStorage.getItem("4PM"));
+    $("#hour17 .description").val(localStorage.getItem("5PM"));
+    $("#hour18 .description").val(localStorage.getItem("6PM"));
 
-    //
+    
     // TODO: Add code to display the current date in the header of the page.
   });
