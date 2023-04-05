@@ -46,7 +46,7 @@ THEN the saved events persist
 
 When clicking on the deployed page link, you will be brought to a page that looks like the below gif. Once on the page the time-blocks should be grey if that hour has passed for the day, red if it's the current hour, and green if its yet to happen. In each block you can enter events and click the save button, which will store them and make them continue displaying on the page even if you reload the page.
 
-<!--![gif of work day scheduler](./assets/images/work-day-scheduler.gif)-->
+![gif of work day scheduler](./assets/images/schedulerGif.gif)
 
 ## License
 
